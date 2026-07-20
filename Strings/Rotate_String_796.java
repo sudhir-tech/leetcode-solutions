@@ -1,4 +1,4 @@
-package Stringss;
+package Strings;
 
 public class Rotate_String_796 {
     public boolean rotateString(String s, String goal) {
