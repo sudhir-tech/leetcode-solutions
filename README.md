@@ -56,15 +56,6 @@ leetcode-solutions/
 
 ---
 
-## ✅ Solutions
-
-| # | Problem | Difficulty | Topic |
-|---|---------|------------|-------|
-| 796 | Rotate String | 🟢 Easy | Strings |
-
-> More solutions will be added regularly.
-
----
 
 ## 💡 Problem Solving Approach
 
