@@ -15,5 +15,5 @@ public class IntersectionOfTwoLinkedList_160 {
         }
 
         return pointerA; // This will be the intersection node or null if no intersection
-    }
+    }   
 }
